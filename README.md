@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbGWBpwFrIxeJOq6_n1Yya-I04O19TeMg10u__vTItQnbbRayPKpct39jYA-vm4FcfHZUOXSawC27lcDTNGq6ClD4mlMMM_uvT4O9RZZnonLiye_awfQsClq0PdR_kwFvuMnIkCoO14QDUX0K1J4niBgBqvjrhujxOoXf6v0vxlqZItfiq2mJwloCNJsU/s16000/5becb91e-bcd9-4103-892e-67a6e643ef8r9.png" style="width: 450px; height: 250px;" />
+   <img align="center" width="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbGWBpwFrIxeJOq6_n1Yya-I04O19TeMg10u__vTItQnbbRayPKpct39jYA-vm4FcfHZUOXSawC27lcDTNGq6ClD4mlMMM_uvT4O9RZZnonLiye_awfQsClq0PdR_kwFvuMnIkCoO14QDUX0K1J4niBgBqvjrhujxOoXf6v0vxlqZItfiq2mJwloCNJsU/s16000/5becb91e-bcd9-4103-892e-67a6e643ef8r9.png"/>
    <h3 align="center">¡Hola 👋! Soy Alfredo Gomez Culma 👨🏻‍💻</h3>
 </p>
 
