@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://pbs.twimg.com/media/GtY6ccOXkAA1ww4?format=jpg&name=4096x4096" style="width: 450px; height: 250px;" />
+   <img align="center" width="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbGWBpwFrIxeJOq6_n1Yya-I04O19TeMg10u__vTItQnbbRayPKpct39jYA-vm4FcfHZUOXSawC27lcDTNGq6ClD4mlMMM_uvT4O9RZZnonLiye_awfQsClq0PdR_kwFvuMnIkCoO14QDUX0K1J4niBgBqvjrhujxOoXf6v0vxlqZItfiq2mJwloCNJsU/s16000/5becb91e-bcd9-4103-892e-67a6e643ef8r9.png" style="width: 450px; height: 250px;" />
    <h3 align="center">¡Hola 👋! Soy Alfredo Gomez Culma 👨🏻‍💻</h3>
 </p>
 
@@ -19,30 +19,19 @@
 
 ### 🔖 Información destacada
 
-<div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; max-width: 1000px; margin: 0 auto;">
-
-  <!-- Tarjeta 1 -->
-  <div style="width: 220px; text-align: center;">
-    <img src="https://pbs.twimg.com/media/GrQNENQWMAA8YKd?format=jpg&name=4096x4096" alt="Evento ITFIP" style="width: 100%; height: 230px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p style="margin-top: 8px; font-size: 0.9rem; color: #555; height: 120px;">
-      Tuve el privilegio de representar al ITFIP en el XXII Encuentro Departamental de Semilleros de Investigación 🚀
-    </p>
-  </div>
-
-  <!-- Tarjeta 2 -->
-  <div style="width: 220px; text-align: center;">
-    <img src="https://media.licdn.com/dms/image/v2/D4E22AQE4CWjSoQVn-Q/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1711848684946?e=1752710400&v=beta&t=Ak_y_eiTrtWFLUReS3zg5o4T5YbxKAjV9DmSSx1IILI" alt="Certificado Oracle" style="width: 100%; height: 230px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p style="margin-top: 8px; font-size: 0.9rem; color: #555; height: 80px;">
-      He terminado con éxito la formación brindada por Oracle Next Education. Un proceso práctico guiado por Alura Latam y Oracle.
-    </p>
-  </div>
-
-  <!-- Tarjeta 3 -->
-  <div style="width: 220px; text-align: center;">
-    <img src="https://media.licdn.com/dms/image/v2/D4E22AQE4SIMIVEZjzQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1716843815567?e=1752710400&v=beta&t=kVKEfa7K_NfmiY_nCBg6Ryl_XjV4pI27kQmCCzcU0FI" alt="Publicación SQL" style="width: 100%; height: 230px; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p style="margin-top: 8px; font-size: 0.9rem; color: #555; height: 80px;">
-      El diseño de bases de datos relacionales organiza tablas y relaciones para gestionar datos de forma eficiente, con integridad y buen rendimiento.
-    </p>
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td align="center" width="250px">
+      <img src="https://pbs.twimg.com/media/GrQNENQWMAA8YKd?format=jpg&name=4096x4096" width="200px"><br>
+      <p>Tuve el privilegio de representar al ITFIP en el XXII Encuentro Departamental de Semilleros de Investigación 🚀</p>
+    </td>
+    <td align="center" width="250px">
+      <img src="https://media.licdn.com/dms/image/v2/D4E22AQE4CWjSoQVn-Q/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1711848684946?e=1752710400&v=beta&t=Ak_y_eiTrtWFLUReS3zg5o4T5YbxKAjV9DmSSx1IILI" width="200px"><br>
+      <p>He terminado con éxito la formación brindada por Oracle Next Education. Un proceso práctico guiado por Alura Latam y Oracle.</p>
+    </td>
+    <td align="center" width="250px">
+      <img src="https://media.licdn.com/dms/image/v2/D4E22AQE4SIMIVEZjzQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1716843815567?e=1752710400&v=beta&t=kVKEfa7K_NfmiY_nCBg6Ryl_XjV4pI27kQmCCzcU0FI" width="200px"><br>
+      <p>El diseño de bases de datos relacionales organiza tablas y relaciones para gestionar datos de forma eficiente, con integridad y buen rendimiento.</p>
+    </td>
+  </tr>
+</table>
