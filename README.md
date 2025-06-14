@@ -35,3 +35,7 @@
     </td>
   </tr>
 </table>
+
+### 📈 Estadísticas de GitHub
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alfredogc21&theme=vue&hide_border=falso&locale=es&short_numbers=falso&mode=weekly&card_width=700&card_height=200)](https://git.io/streak-stats)
