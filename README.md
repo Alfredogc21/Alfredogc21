@@ -23,15 +23,15 @@
   <tr>
     <td align="center" width="250px">
       <img src="https://pbs.twimg.com/media/GrQNENQWMAA8YKd?format=jpg&name=4096x4096" width="200px"><br>
-      <p>Tuve el privilegio de representar al ITFIP en el XXII Encuentro Departamental de Semilleros de Investigación 🚀</p>
+      <p>Encuentro Nacional e Internacional de Semilleros de investigación RedCOLSI</p>
     </td>
     <td align="center" width="250px">
-      <img src="https://media.licdn.com/dms/image/v2/D4E22AQE4CWjSoQVn-Q/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1711848684946?e=1752710400&v=beta&t=Ak_y_eiTrtWFLUReS3zg5o4T5YbxKAjV9DmSSx1IILI" width="200px"><br>
-      <p>He terminado con éxito la formación brindada por Oracle Next Education. Un proceso práctico guiado por Alura Latam y Oracle.</p>
+      <img src="https://media.licdn.com/dms/image/v2/D4E22AQGLCjyQJCCWGg/feedshare-shrink_800/feedshare-shrink_800/0/1709968232774?e=1770249600&v=beta&t=YNvAxA7DqMSJ7eRaRInDbzl7TxkZwNasTtCSpVI5U_M" width="200px"><br>
+      <p>Sustentación de proyecto de grado 💻</p>
     </td>
     <td align="center" width="250px">
-      <img src="https://media.licdn.com/dms/image/v2/D4E22AQE4SIMIVEZjzQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1716843815567?e=1752710400&v=beta&t=kVKEfa7K_NfmiY_nCBg6Ryl_XjV4pI27kQmCCzcU0FI" width="200px"><br>
-      <p>El diseño de bases de datos relacionales organiza tablas y relaciones para gestionar datos de forma eficiente, con integridad y buen rendimiento.</p>
+      <img src="https://media.licdn.com/dms/image/v2/D4E22AQGop9bo6Zjelw/feedshare-shrink_800/B4EZsur8lPIMAk-/0/1766014837179?e=1770249600&v=beta&t=Y-2wT5h-Qf11PqlBYKjkhUXUM2sK5ZL-FPyngT12V1E" width="200px"><br>
+      <p>Ingeniero de Sistemas 💻🎓</p>
     </td>
   </tr>
 </table>
