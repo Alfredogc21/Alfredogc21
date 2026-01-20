@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="400" src="https://avatars.githubusercontent.com/u/34879797?s=400&u=6350c4e88449ceead531481554b79b732f0d08ec&v=4" style="width: 430px; height: 230px;"/>
+   <img align="center" width="400" src="https://avatars.githubusercontent.com/u/34879797?s=400&u=6350c4e88449ceead531481554b79b732f0d08ec&v=4" style="width: 300px; height: 300px;"/>
    <h3 align="center">¡Hola 👋! Soy Alfredo Gomez Culma 👨🏻‍💻</h3>
 </p>
 
