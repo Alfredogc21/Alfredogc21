@@ -26,11 +26,11 @@
       <p>Encuentro Nacional e Internacional de Semilleros de investigación RedCOLSI</p>
     </td>
     <td align="center" width="260px">
-      <img src="https://media.licdn.com/dms/image/v2/D4E22AQGLCjyQJCCWGg/feedshare-shrink_800/feedshare-shrink_800/0/1709968232774?e=1770249600&v=beta&t=YNvAxA7DqMSJ7eRaRInDbzl7TxkZwNasTtCSpVI5U_M" width="200px"><br>
+      <img src="https://pbs.twimg.com/media/GINgsulWoAACRVU?format=jpg&name=4096x4096" width="200px"><br>
       <p>Sustentación de proyecto de grado 💻</p>
     </td>
     <td align="center" width="260px">
-      <img src="https://media.licdn.com/dms/image/v2/D4E22AQGop9bo6Zjelw/feedshare-shrink_800/B4EZsur8lPIMAk-/0/1766014837179?e=1770249600&v=beta&t=Y-2wT5h-Qf11PqlBYKjkhUXUM2sK5ZL-FPyngT12V1E" width="200px"><br>
+      <img src="https://pbs.twimg.com/media/G8aC7XmWgAAL-iw?format=jpg&name=large" width="200px"><br>
       <p>Ingeniero de Sistemas 💻🎓</p>
     </td>
   </tr>
